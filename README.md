@@ -5,3 +5,4 @@ List of favorite SF restaurants
 ---|---|---
 Lisa Leese | Flour + Water | San Francisco
 Flory Alano | Boiling Crab | Santa Clara
+Kavin Lingaraju | Buca Di Beppo | Campbell
