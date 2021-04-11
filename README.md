@@ -12,5 +12,7 @@ Alex Zeng-Yang | Uncle Boys | San Francisco
 Mia Kobayashi | Souplantation | Los Angeles
 Eunice Tu | Kunjip | Santa Clara
 Amanda Wang | Ashton's | Yangon
+Kevin Galvin | Original Joe's | San Francisco
+
 
 
