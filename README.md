@@ -13,6 +13,7 @@ Mia Kobayashi | Souplantation | Los Angeles
 Eunice Tu | Kunjip | Santa Clara
 Amanda Wang | Ashton's | Yangon
 Kevin Galvin | Original Joe's | San Francisco
+Alessandro Barrera | Roam Artisan Burgers | San Francisco
 
 
 
