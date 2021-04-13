@@ -15,6 +15,6 @@ Amanda Wang | Ashton's | Yangon
 Kevin Galvin | Original Joe's | San Francisco
 Alessandro Barrera | Roam Artisan Burgers | San Francisco
 Vincent Alfaro | Che Fico | San Francisco
-
+Lara Schaffer | Ebisu | San Francisco
 
 
