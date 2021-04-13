@@ -17,4 +17,5 @@ Alessandro Barrera | Roam Artisan Burgers | San Francisco
 Vincent Alfaro | Che Fico | San Francisco
 Lara Schaffer | Ebisu | San Francisco
 Sutej Singh | McDonalds | Emeryville
+kush Gilitwala | CurryupNow | San Mateo
 
