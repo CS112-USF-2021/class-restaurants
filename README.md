@@ -20,4 +20,4 @@ Sutej Singh | McDonalds | Emeryville
 kush Gilitwala | CurryupNow | San Mateo
 Jacob Warthen | Ristobar | San Francisco
 Maxx Muramoto | Rainbows | Honolulu
-
+Tian Jiahe | Sanpoutei Ramen | Singapore
