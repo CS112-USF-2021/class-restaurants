@@ -27,3 +27,4 @@ Selina Delgado | Il Casaro Pizzaria | San Francisco
 Daniel Kim  | Blue Fin Lounge  | San Francisco
 Anton Lim  |  Quickly |  South San Francisco
 Hannah Gabany | Cucina Paradiso | Petaluma
+Fen Wright | Shake Shack | Boston
